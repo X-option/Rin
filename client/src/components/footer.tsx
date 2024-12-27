@@ -59,7 +59,7 @@ function Footer() {
                             setDoubleClickTimes(doubleClickTimes + 1)
                         }
                     }}>
-                        © Copyright 2024 The Scorpio. All Rights Reserved.
+                        © Copyright
                     </span>
                     {config.get<boolean>('rss') && <>
                         <Spliter />
